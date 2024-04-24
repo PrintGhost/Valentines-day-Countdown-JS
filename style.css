@@ -1,0 +1,31 @@
+body {
+    background-color: #333;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    font-family: 'Brush Script MT';
+}
+
+.countdown {
+    text-align: center;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+}
+
+.timer div {
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+    font-size: 24px;
+    width: 60px;
+}
